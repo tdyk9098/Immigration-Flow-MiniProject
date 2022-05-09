@@ -1,5 +1,5 @@
 # Immigration-Flow-MiniProject
-Showcase of intro to: NumPy, Pandas, Matplotlib, Seaborn
+Exploring immigration patterns within countries.
 
 
 Dataset: OECD International Migration Database
