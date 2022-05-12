@@ -25,6 +25,8 @@ pip install matplotlib | conda install matplotlib
 
 pip install seaborn | conda install seaborn
 
+pip install scipy | conda install -c anaconda scipy
+
 # Import
 import numpy as np
 
