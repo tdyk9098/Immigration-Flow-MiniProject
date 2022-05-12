@@ -7,7 +7,7 @@ Dataset: OECD International Migration Database
 The objective was to analyze the inflow and outflow patterns of 35 countries.
 Python was used to read, clean, and store a CSV file.
 
-Observations:
+# Observations:
 
 - Germany has the top inflows and outflows: solidifying its position as a major hub in Europe.
 - G7 countries have a high positive correlation with annual total inflows: R = .734, P Val = 6.88e^-8.
